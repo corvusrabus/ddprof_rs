@@ -1,5 +1,5 @@
 [package]
-name = "ddprof_rs"
+name = "ddprof-rs"
 version = "0.1.0"
 edition = "2021"
 
